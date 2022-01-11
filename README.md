@@ -1,1 +1,1 @@
-# CHESS-_ENGINE
+# Chess Engine using Alpha Beta Pruning
